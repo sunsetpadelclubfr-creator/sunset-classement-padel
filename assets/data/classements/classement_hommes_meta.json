@@ -1,0 +1,19 @@
+{
+  "source": "demo",
+  "mois": "demo",
+  "sexe": "hommes",
+  "total_extrait": 2,
+  "kind": "split_meta",
+  "part_size": 3000,
+  "top_file": "classement_hommes_top.json",
+  "index_file": "classement_hommes_index.json",
+  "parts": [
+    {
+      "file": "classement_hommes_part_001.json",
+      "start": 1,
+      "end": 2,
+      "count": 2
+    }
+  ],
+  "total_parts": 1
+}

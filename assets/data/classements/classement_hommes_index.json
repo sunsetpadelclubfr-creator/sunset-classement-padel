@@ -1,0 +1,22 @@
+[
+  {
+    "id": "LEYGUE THOMAS",
+    "nom": "Leygue",
+    "prenom": "Thomas",
+    "rang": 1,
+    "points": 18520,
+    "ligue": "Occitanie",
+    "pays": "FRA",
+    "part": "classement_hommes_part_001.json"
+  },
+  {
+    "id": "SUNSET TEST",
+    "nom": "Sunset",
+    "prenom": "Test",
+    "rang": 99,
+    "points": 980,
+    "ligue": "Provence Alpes Cote D'Azur",
+    "pays": "FRA",
+    "part": "classement_hommes_part_001.json"
+  }
+]

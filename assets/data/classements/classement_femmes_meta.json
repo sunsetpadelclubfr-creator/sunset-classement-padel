@@ -1,0 +1,19 @@
+{
+  "source": "demo",
+  "mois": "demo",
+  "sexe": "femmes",
+  "total_extrait": 1,
+  "kind": "split_meta",
+  "part_size": 3000,
+  "top_file": "classement_femmes_top.json",
+  "index_file": "classement_femmes_index.json",
+  "parts": [
+    {
+      "file": "classement_femmes_part_001.json",
+      "start": 1,
+      "end": 1,
+      "count": 1
+    }
+  ],
+  "total_parts": 1
+}

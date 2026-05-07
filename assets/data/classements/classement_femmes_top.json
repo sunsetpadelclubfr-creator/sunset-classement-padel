@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "mois": "demo",
+    "sexe": "femmes",
+    "kind": "top",
+    "total_source": 1
+  },
+  "data": [
+    {
+      "id": "COLLOMBON ALIX",
+      "rang": 1,
+      "nom": "Collombon",
+      "prenom": "Alix",
+      "points": 19600,
+      "pays": "FRA",
+      "ligue": "Occitanie",
+      "sexe": "femmes",
+      "search": "COLLOMBON ALIX OCCITANIE"
+    }
+  ]
+}

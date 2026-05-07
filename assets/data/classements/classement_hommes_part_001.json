@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "mois": "demo",
+    "sexe": "hommes",
+    "kind": "part",
+    "part": 1,
+    "total_parts": 1
+  },
+  "data": [
+    {
+      "id": "LEYGUE THOMAS",
+      "rang": 1,
+      "nom": "Leygue",
+      "prenom": "Thomas",
+      "points": 18520,
+      "pays": "FRA",
+      "ligue": "Occitanie",
+      "sexe": "hommes",
+      "search": "LEYGUE THOMAS OCCITANIE"
+    },
+    {
+      "id": "SUNSET TEST",
+      "rang": 99,
+      "nom": "Sunset",
+      "prenom": "Test",
+      "points": 980,
+      "pays": "FRA",
+      "ligue": "Provence Alpes Cote D'Azur",
+      "sexe": "hommes",
+      "search": "SUNSET TEST"
+    }
+  ]
+}
